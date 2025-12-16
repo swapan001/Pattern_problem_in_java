@@ -1,5 +1,5 @@
 # Pattern_problem_in_java
-most popular [pattern] star(*) printing problem's logic implemented here
+most popular [pattern] like star(*) or numberic pattern printing problem's logic implemented here.
 <hr>
 <ul>
 <span>To run this program you should follow few steps: </span>
